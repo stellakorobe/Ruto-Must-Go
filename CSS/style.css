@@ -1,0 +1,16 @@
+h1 {
+    color: aqua;
+    font-size: medium;
+    text-align: center;
+    font-weight: bold;
+    text-transform: lowercase;
+    font-size: 100px;
+}
+h2 {
+    color: brown;
+    font-size: medium;
+    text-align: center;
+    font-weight: bold;
+    text-transform: lowercase;
+    font-size: 80px;
+}
